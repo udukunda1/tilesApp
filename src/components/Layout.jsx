@@ -2,7 +2,7 @@
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { Home, LogOut } from 'lucide-react';
-import iconImg from '../assets/images/icon.svg';
+import iconImg from '../assets/images/Icon.svg';
 import permissionImg from '../assets/images/permission.svg';
 import projectImg from '../assets/images/projects.svg';
 import alertsImg from '../assets/images/alerts.svg';
